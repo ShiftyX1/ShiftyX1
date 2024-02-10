@@ -23,6 +23,8 @@
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=AIOHTTP&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23013220?logo=django&link=https%3A%2F%2Fwww.djangoproject.com%2F)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%23013220?logo=selenium&link=https%3A%2F%2Fwww.selenium.dev%2F)
+
 
 ## My GitHub Statistics
 
