@@ -21,8 +21,7 @@
 <h2 align="left">Frameworks, Libraries and Packages</h2>
 
 ![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=AIOHTTP&logoColor=white)
-![Django]([https://img.shields.io/pypi/frameworkversions/django/Django](https://img.shields.io/badge/Django-%23013220?logo=django
-))
+![Django](https://img.shields.io/badge/Django-%23013220?logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
 
 ## My GitHub Statistics
