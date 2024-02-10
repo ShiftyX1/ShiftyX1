@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science self-taught student from Russia <img src="https://wprock.fr/ezoimgfmt/assets.wprock.fr/emoji/joypixels/512/1f1f7-1f1fa.png?ezimgfmt=rs%3Adevice%2Frscb25-1" height="32"/></h3>
 
-## Statistics
+## Статистика
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.ShiftyX1.vercel.app/api/?username=ShiftyX1&theme=midnight-purple&show_icons=true&hide_border=true&show_private=true&include_all_commits=true&show_total_reviews=true" alt="ShiftyX1's GitHub stats" align="center" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="ShiftyX1's GitHub stats" align="center" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
