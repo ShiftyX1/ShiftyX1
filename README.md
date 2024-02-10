@@ -4,7 +4,7 @@
 
 ## My GitHub Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="ShiftyX1's GitHub stats" align="center"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=neon&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="ShiftyX1's GitHub stats" align="center"/></a>
 
 [![ShiftyX1's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
