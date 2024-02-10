@@ -6,7 +6,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=midnight-purple&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="ShiftyX1's GitHub stats" align="center"/></a>
 
-[![ShiftyX1's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ShiftyX1's GitHub graph](https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 **Note**: this does not represent skill level but purely the amount of code in each language on my profile.
