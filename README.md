@@ -3,6 +3,7 @@
 <h3 align="center">Computer science self-taught student from Russia <img src="https://wprock.fr/ezoimgfmt/assets.wprock.fr/emoji/joypixels/512/1f1f7-1f1fa.png?ezimgfmt=rs%3Adevice%2Frscb25-1" height="32"/></h3>
 <a></a>
 - ☝️🤓 Currently learning **Python, Backend development, Web, JavaScript**
+- 🌍 I speak Russian (native), English (B1)
 
 <h2 align="left">Codewars profile</h2>
 
