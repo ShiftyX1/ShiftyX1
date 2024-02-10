@@ -6,6 +6,7 @@
 <h2 align="left">Programming Languages</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 
 ## My GitHub Statistics
 
