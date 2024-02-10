@@ -8,6 +8,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 
+<h2 align="left">Frameworks, Libraries and Packages</h2>
+
+![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=AIOHTTP&logoColor=white)
+![Django](https://img.shields.io/pypi/frameworkversions/django/Django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
+
 ## My GitHub Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=neon&count_private=true&exclude_repo=obsidi&layout=compact&langs_count=10&hide_border=true" alt="ShiftyX1's GitHub stats" align="center"/></a>
