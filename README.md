@@ -25,6 +25,12 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%23013220?logo=selenium&link=https%3A%2F%2Fwww.selenium.dev%2F)
 
+### Connect with me:
+<p align="left">
+<a href="https://t.me/shiftyx_Ilya" target="blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="shiftyx_Ilya" height="40" width="40" /></a>
+<a href="https://open.spotify.com/user/31bwzccwnhtvyp2q4uvqf24rrk2q?si=dc6c4ed4fe0a4796" target="blank"><img align="center" src="https://simpleicons.org/icons/spotify.svg" alt="ShiftyX" height="40" width="40" /></a>
+</p>
+
 
 ## My GitHub Statistics
 
