@@ -15,7 +15,7 @@
 <h1 align="center">My Tech Stack</h1>
 <h2 align="left">Programming Languages</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
+![Python][https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
 
 <h2 align="left">Frameworks, Libraries and Packages</h2>
