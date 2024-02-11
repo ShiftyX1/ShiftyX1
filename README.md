@@ -16,7 +16,7 @@
 <h2 align="left">Programming Languages</h2>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)](https://www.python.org/)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <h2 align="left">Frameworks, Libraries and Packages</h2>
 
