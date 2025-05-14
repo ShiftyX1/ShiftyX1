@@ -14,9 +14,9 @@
     </td>
     <td align="center">
       <h2>📊 Stats</h2>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ShiftyX1&user=ShiftyX1&show_icons=true&theme=dark&hide_border=true&hide_title=true"/>
+      <img height="150em" src="https://shiftystats.vercel.app/api?username=ShiftyX1&include_all_commits=true&user=ShiftyX1&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true"/>
       <br><br>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiftyX1&user=ShiftyX1&layout=compact&theme=dark&hide_border=true&hide_title=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=neon&count_private=true&layout=compact&langs_count=15&hide_border=true"/>
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&theme=github-compact&hide_border=true&height=200" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&theme=github-compact&hide_border=true&height=500" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
