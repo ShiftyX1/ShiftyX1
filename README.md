@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <h2>🛠️ Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,react,cpp,html,css,django,fastapi,docker,git,selenium,jest&perline=4" />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,react,java,cpp,html,css,django,fastapi,docker,git,selenium,jest&perline=4" />
     </td>
     <td align="center">
       <h2>📊 Stats</h2>
