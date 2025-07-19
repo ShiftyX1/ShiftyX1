@@ -16,7 +16,7 @@
       <h2>📊 Stats</h2>
       <img height="150em" src="https://shiftystats.vercel.app/api?username=ShiftyX1&include_all_commits=true&user=ShiftyX1&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true"/>
       <br><br>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=neon&count_private=true&layout=compact&langs_count=15&hide_border=true"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=neon&count_private=true&layout=compact&langs_count=15&hide_border=true&hide=shell,html,css,jinja,kvlang"/>
     </td>
   </tr>
 </table>
