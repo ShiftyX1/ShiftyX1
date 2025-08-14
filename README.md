@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <h2>🛠️ Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,react,go,java,cpp,html,css,django,fastapi,docker,git,selenium,jest&perline=4" />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,react,go,java,django,fastapi,docker,git&perline=4" />
     </td>
     <td align="center">
       <h2>📊 Stats</h2>
@@ -27,9 +27,9 @@
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&theme=github-compact&hide_border=true&height=500" alt="GitHub Activity Graph" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://t.me/shiftyx_Ilya"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
