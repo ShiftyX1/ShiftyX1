@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F723&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+DevOps+%7C+Click_here!)](https://shiftyspace.ru/)
 
-</div>
+<!-- </div>
 
 <table border="0" align="center">
   <tr>
@@ -14,7 +14,7 @@
     </td>
     <td align="center">
       <h2>📊 Stats</h2>
-<!--       <img height="150em" src="https://shiftystats.vercel.app/api?username=ShiftyX1&include_all_commits=true&user=ShiftyX1&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true"/> -->
+           <img height="150em" src="https://shiftystats.vercel.app/api?username=ShiftyX1&include_all_commits=true&user=ShiftyX1&count_private=true&show_icons=true&theme=dark&hide_border=true&hide_title=true"/>
       <br><br>
       <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiftyX1&theme=neon&count_private=true&layout=compact&langs_count=15&hide_border=true&hide=shell,html,css,jinja,kvlang,dockerfile,powershell,mako"/>
     </td>
@@ -25,7 +25,7 @@
   
 [![codewars](https://www.codewars.com/users/ShiftyX/badges/small)](https://www.codewars.com/users/ShiftyX)
 
-</div>
+</div> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiftyX1&theme=github-compact&hide_border=true&height=500" alt="GitHub Activity Graph" />
