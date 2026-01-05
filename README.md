@@ -32,7 +32,6 @@
 </p> -->
 
 <p align="center">
-  <a href="https://t.me/shiftyx_Ilya"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/31bwzccwnhtvyp2q4uvqf24rrk2q?si=dc6c4ed4fe0a4796"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=ShiftyX1&color=blueviolet&style=flat-square"/>
 </p>
